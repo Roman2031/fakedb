@@ -1,12 +1,12 @@
 {
   "users": [{
-  "UserId": 1,
+  "id": 1,
   "NameOfSO": "Swen Cobelli",
   "PhoneNumber": "7289542594",
   "Status": false,
   "LastUpdate": "2020-02-09 17:44:42"
 }, {
-  "UserId": 2,
+  "id": 2,
   "NameOfSO": "Dyanne Addyman",
   "PhoneNumber": "2442869537",
   "Status": true,
