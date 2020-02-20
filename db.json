@@ -11,17 +11,5 @@
   "PhoneNumber": "2442869537",
   "Status": true,
   "LastUpdate": "2020-01-22 03:47:33"
-}, {
-  "UserId": 3,
-  "NameOfSO": "Trisha Kinman",
-  "PhoneNumber": "4971724644",
-  "Status": false,
-  "LastUpdate": "2019-07-07 21:39:27"
-}, {
-  "UserId": 4,
-  "NameOfSO": "Sibeal Matteini",
-  "PhoneNumber": "2013865670",
-  "Status": true,
-  "LastUpdate": "2019-11-20 06:02:35"
 }]
 }
