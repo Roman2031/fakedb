@@ -1,5 +1,4 @@
-{
-  "users": [{
+[{
   "id": 1,
   "NameOfSO": "Swen Cobelli",
   "PhoneNumber": "7289542594",
@@ -12,4 +11,3 @@
   "Status": true,
   "LastUpdate": "2020-01-22 03:47:33"
 }]
-}
